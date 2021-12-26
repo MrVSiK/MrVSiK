@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Admin portal with Nextjs**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **RPC**
 
 - 📝 I regularly write articles on [https://medium.com/@MrVSiK](https://medium.com/@MrVSiK)
 
