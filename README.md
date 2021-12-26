@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinivas Varanasi</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Web server with go**
+- 🔭 I’m currently working on **Admin portal with Nextjs**
 
 - 🌱 I’m currently learning **Docker**
 
