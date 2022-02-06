@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Admin portal with Nextjs**
 
-- 🌱 I’m currently learning **RPC**
+- 🌱 I’m currently learning **Spring**
 
 - 📝 I regularly write articles on [https://medium.com/@MrVSiK](https://medium.com/@MrVSiK)
 
-- 💬 Ask me about **React, Fastify, MongoDB**
+- 💬 Ask me about **Nextjs, Fastify, MongoDB**
 
 - 📫 How to reach me **s7varanasi@gmail.com**
 
